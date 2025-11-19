@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# LARGE CERT DATA (ABSOLUTELY DO NOT UPLOAD)
+data/
+*.zip
+*.gz
+
+# Your model temp outputs (optional)
+*.pkl
+*.h5
