@@ -4,19 +4,19 @@ Cerberus is a lightweight AI-based project designed to detect insider threats us
 
 ---
 
-## 🚀 What the Project Does
+##  What the Project Does
 
-### ✔ Baseline Model (Isolation Forest)
+###  Baseline Model (Isolation Forest)
 - Uses engineered behavioral and psycholinguistic features  
 - Features include after-hours logons, device connections, sentiment, and total logons  
 - Detects 2 out of 5 insiders (40% performance)
 
-### ✔ Advanced Model (Temporal Graph Network)
+###  Advanced Model (Temporal Graph Network)
 - Processes user activity as a time-ordered sequence  
 - Combines graph neural networks (GCN) + GRU  
 - Detects 3 out of 5 insiders (60% performance)
 
-### ✔ Dashboard
+###  Dashboard
 - A Streamlit dashboard for visualizing model performance and insider rankings
 
 ---
